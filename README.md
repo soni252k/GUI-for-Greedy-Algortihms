@@ -56,7 +56,5 @@
 5. messagebox
 6. font
 
-###Created by: Kaushiki Taru      
-	             Kumari Soni         
-	             Lakshay Singhal     
+###Created by: Kaushiki Taru, Kumari Soni, Lakshay Singhal     
 
