@@ -2,6 +2,8 @@
 
 ###Instructions to use:
 
+*  The programs are written in Python *
+* Download the zip file*
 1. The 'GreedyAlgorithms' is the main gui program.
 2. Total of 5 algorithms available (all Greedy):
 	Kruskal's Algo
