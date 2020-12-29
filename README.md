@@ -1,4 +1,4 @@
-# GUI-for-Greedy-Algortihms
+# GUI_for_Greedy_Algortihms_using_Python_and_tkinter
 
 ###Instructions to use:
 
@@ -56,5 +56,5 @@
 5. messagebox
 6. font
 
-###Created by: Kaushiki Taru, Kumari Soni, Lakshay Singhal     
+###Group project by: Kumari Soni, Kaushiki Taru, Lakshay Singhal     
 
