@@ -56,5 +56,5 @@
 5. messagebox
 6. font
 
-###Group project by: Kumari Soni, Kaushiki Taru, Lakshay Singhal     
+###Group project by: Kumari Soni, Kaushiki Taru and Lakshay Singhal     
 
