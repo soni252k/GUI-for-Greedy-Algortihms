@@ -1,6 +1,17 @@
 # GUI_for_Greedy_Algortihms_using_Python_and_tkinter
 
+This is a group project by: me (https://github.com/soni252k), Kaushiki Taru (https://github.com/Kaushiki333) and Lakshay Singhal (https://github.com/Lakshay-Singhal) which we did as a part of our course project in second year of out B.Tech.
 
+Greedy algorithms are implemented with graphical user interface in python using Tkinter Library This is a GUI based menu driven program, You can use it by opening the main file and then navigate using the graphical user interface.
+
+###Libraries included:
+
+1. tkinter
+2. pyinstaller
+3. time
+4. subprocess
+5. messagebox
+6. font
 
 ###Instructions to use:
 
@@ -47,16 +58,3 @@
 	>>Enter the cost of path between each nodes.
 	>>Select the target node.
 	>>Result is displayed.
-
-
-###Libraries included:
-
-1. tkinter
-2. pyinstaller
-3. time
-4. subprocess
-5. messagebox
-6. font
-
-###Group project by: Kumari Soni, Kaushiki Taru and Lakshay Singhal     
-
